@@ -17,7 +17,9 @@ Esta solución permite generar carpetas con nombres dadas por un archivo txt.
 > 
 >    ![image](https://user-images.githubusercontent.com/91709827/167010652-f52699fa-7406-4e1b-bc45-d0bfab4020cf.png)
 >
-> 3. Termina la aplicacion.
+> 3. Se generan las carpetas.
+>
+> 4. Termina la aplicacion.
 
 # Tomar en cuenta
 
