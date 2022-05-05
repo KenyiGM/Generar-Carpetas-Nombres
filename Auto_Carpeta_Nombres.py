@@ -13,6 +13,6 @@ with open('lista.txt') as file:
         nombre = nombre[:nombre.find("\n")]
       mkdir(nombre)
     except:
-      print(f"Ya esta creada la carpeta {nombre}")
+      print(f"La carpeta {nombre} ya esta creada")
 
 file.close()
