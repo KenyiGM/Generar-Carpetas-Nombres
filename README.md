@@ -21,4 +21,4 @@ Esta solución permite generar carpetas con nombres dadas por un archivo txt.
 
 # Tomar en cuenta
 
-> La aplicación no permite generar carpetas que ya están creadas, por el cual te mostrará un mensaje de "La carpeta ya está creada (con el nombre de ella)".
+> La aplicación no permite generar carpetas que ya están creadas, por el cual te mostrará un mensaje de "La carpeta (nombre) ya está creada".
